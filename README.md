@@ -17,6 +17,12 @@ Just navigate to the folder with your chosen example and open html file in the b
 ```
 npm i 
 ```
+* change directory(if needed)
+```
+cd react-examples
+
+```
+
 * Run development mode
 ```
 npm run dev
